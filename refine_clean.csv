@@ -1,0 +1,26 @@
+"company","product_code","product_number","product_category","name","address","city","country","full_address","company_philips","company_akzo","company_van_houten","company_unilever","product_smartphone","product_tv","product_laptop","product_tablet"
+"philips","p","5","Smartphone","dhr p. jansen","Groningensingel 147","arnhem","the netherlands","Groningensingel 147, arnhem, the netherlands",1,0,0,0,1,0,0,0
+"philips","p","43","Smartphone","dhr p. hansen","Groningensingel 148","arnhem","the netherlands","Groningensingel 148, arnhem, the netherlands",1,0,0,0,1,0,0,0
+"philips","x","3","Laptop","dhr j. Gansen","Groningensingel 149","arnhem","the netherlands","Groningensingel 149, arnhem, the netherlands",1,0,0,0,0,0,1,0
+"philips","x","34","Laptop","dhr p. mansen","Groningensingel 150","arnhem","the netherlands","Groningensingel 150, arnhem, the netherlands",1,0,0,0,0,0,1,0
+"philips","x","12","Laptop","dhr p. fransen","Groningensingel 151","arnhem","the netherlands","Groningensingel 151, arnhem, the netherlands",1,0,0,0,0,0,1,0
+"philips","p","23","Smartphone","dhr p. franssen","Groningensingel 152","arnhem","the netherlands","Groningensingel 152, arnhem, the netherlands",1,0,0,0,1,0,0,0
+"akzo","v","43","TV","dhr p. bansen","Leeuwardenweg 178","arnhem","the netherlands","Leeuwardenweg 178, arnhem, the netherlands",0,1,0,0,0,1,0,0
+"akzo","v","12","TV","dhr p. vansen","Leeuwardenweg 179","arnhem","the netherlands","Leeuwardenweg 179, arnhem, the netherlands",0,1,0,0,0,1,0,0
+"akzo","x","5","Laptop","dhr p. bransen","Leeuwardenweg 180","arnhem","the netherlands","Leeuwardenweg 180, arnhem, the netherlands",0,1,0,0,0,0,1,0
+"akzo","p","34","Smartphone","dhr p. janssen","Leeuwardenweg 181","arnhem","the netherlands","Leeuwardenweg 181, arnhem, the netherlands",0,1,0,0,1,0,0,0
+"akzo","q","5","Tablet","mevr l.  rokken","Leeuwardenweg 182","arnhem","the netherlands","Leeuwardenweg 182, arnhem, the netherlands",0,1,0,0,0,0,0,1
+"akzo","q","9","Tablet","mevr l.  lokken","Leeuwardenweg 183","arnhem","the netherlands","Leeuwardenweg 183, arnhem, the netherlands",0,1,0,0,0,0,0,1
+"akzo","x","8","Laptop","mevr l.  mokken","Leeuwardenweg 184","arnhem","the netherlands","Leeuwardenweg 184, arnhem, the netherlands",0,1,0,0,0,0,1,0
+"philips","p","56","Smartphone","mevr l.  mokken","Delfzijlstraat 54","arnhem","the netherlands","Delfzijlstraat 54, arnhem, the netherlands",1,0,0,0,1,0,0,0
+"philips","v","67","TV","mevr l.  mokken","Delfzijlstraat 55","arnhem","the netherlands","Delfzijlstraat 55, arnhem, the netherlands",1,0,0,0,0,1,0,0
+"philips","v","21","TV","mevr l.  mokken","Delfzijlstraat 56","arnhem","the netherlands","Delfzijlstraat 56, arnhem, the netherlands",1,0,0,0,0,1,0,0
+"van houten","x","45","Laptop","mevr l.  sokken","Delfzijlstraat 57","arnhem","the netherlands","Delfzijlstraat 57, arnhem, the netherlands",0,0,1,0,0,0,1,0
+"van houten","v","56","TV","mevr l.  wokken","Delfzijlstraat 58","arnhem","the netherlands","Delfzijlstraat 58, arnhem, the netherlands",0,0,1,0,0,1,0,0
+"van houten","v","65","TV","mevr l.  kokken","Delfzijlstraat 59","arnhem","the netherlands","Delfzijlstraat 59, arnhem, the netherlands",0,0,1,0,0,1,0,0
+"van houten","x","21","Laptop","mevr l.  Bokken","Delfzijlstraat 60","arnhem","the netherlands","Delfzijlstraat 60, arnhem, the netherlands",0,0,1,0,0,0,1,0
+"van houten","p","23","Smartphone","mevr l.  dokken","Delfzijlstraat 61","arnhem","the netherlands","Delfzijlstraat 61, arnhem, the netherlands",0,0,1,0,1,0,0,0
+"unilever","x","3","Laptop","mevr l.  gokken","Jourestraat 23","arnhem","the netherlands","Jourestraat 23, arnhem, the netherlands",0,0,0,1,0,0,1,0
+"unilever","q","4","Tablet","mevr l.  stokken","Jourestraat 24","arnhem","the netherlands","Jourestraat 24, arnhem, the netherlands",0,0,0,1,0,0,0,1
+"unilever","q","6","Tablet","mevr l.  rokken","Jourestraat 25","arnhem","the netherlands","Jourestraat 25, arnhem, the netherlands",0,0,0,1,0,0,0,1
+"unilever","q","8","Tablet","mevr l.  rokken","Jourestraat 26","arnhem","the netherlands","Jourestraat 26, arnhem, the netherlands",0,0,0,1,0,0,0,1
